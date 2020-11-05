@@ -2,6 +2,8 @@
 
 Use AI to automatically distinguish between *apples*, *oranges* and *bananas* in real time using your webcam
 
+![Banana](./readme_pics/banana.png)
+![Orange](./readme_pics/orange.png)
 
 ## usage
 -install environment requirements found in the environment.yml file
