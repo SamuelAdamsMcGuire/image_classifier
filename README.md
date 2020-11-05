@@ -18,7 +18,7 @@ exit program with `q`
 
 
 ## Project 
-- Built a machine learning pipeline with Keras (and other tools) that classifies images of objects. 
+- Built a deep learning pipeline with Keras (and other tools) that classifies images of objects. 
 - Made own data set taking pictures of the various fruits and preprocessed the pictures
 	- decrease file size 
 	- scaling
