@@ -9,7 +9,7 @@ Use AI to automatically distinguish between *apples*, *oranges* and *bananas* in
 conda env create -f environment.yml
 ```
 
--execute file
+-execute file from root folder
 ```python
 python real_time_classifier.py pics
 ```
