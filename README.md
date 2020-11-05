@@ -6,8 +6,12 @@ Use AI to automatically distinguish between *apples*, *oranges* and *bananas* in
 ![Orange](./readme_pics/orange.png)
 
 ## usage
--install environment requirements found in the environment.yml file
+-install environment requirements found in the environment.yml file with the following command in the bash shell:
+```
+conda env create -f environment.yml
+```
 
+-execute file from root folder
 ```python
 python real_time_classifier.py pics
 ```
@@ -16,7 +20,7 @@ exit program with `q`
 
 
 ## Project 
-- Built a machine learning pipeline with Keras (and other tools) that classifies images of objects. 
+- Built a deep learning pipeline with Keras (and other tools) that classifies images of objects. 
 - Made own data set taking pictures of the various fruits and preprocessed the pictures
 	- decrease file size 
 	- scaling
