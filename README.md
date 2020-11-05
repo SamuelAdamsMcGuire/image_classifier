@@ -4,12 +4,11 @@ Use AI to automatically distinguish between *apples*, *oranges* and *bananas* in
 
 
 ## usage
--install environment requirements found in the environment.yml file with the following command:
+-install environment requirements found in the environment.yml file with the following command in the bash shell:
 
-``python
 conda env create -f environment.yml
-```
 
+-execute file
 ```python
 python real_time_classifier.py pics
 ```
